@@ -89,11 +89,11 @@ Skim through: [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functi
 - Add a single line comment: `// Exercise 4`
 - Write a function that takes in 2 integers and returns the sum and difference as a tuple.
 - Write a function named `enroll` that uses both an **argument label** and a **parameter name**. The function should do the following:
-    + Take in a string with argument label "in" and parameter name "class"
+    + Take in a string with argument label "in" and parameter name "course"
     + Take in an integer with argument label "using" and parameter name "pennid"
     + Return nothing
-    + Calling the function should result in the string "Enrolled \(pennid) in \(class)" being printed
-- Define a string constant `newClass` and int constant `myPennId`. Call the function with them. This should look like `enroll(in: newClass, using: myPennId)`
+    + Calling the function should result in the string "Enrolled \(pennid) in \(course)" being printed
+- Define a string constant `newCourse` and int constant `myPennId`. Call the function with them. This should look like `enroll(in: newCourse, using: myPennId)`
 
 ### Exercise 5: Enumerations
 Skim through: [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html#//apple_ref/doc/uid/TP40014097-CH12-ID145)
