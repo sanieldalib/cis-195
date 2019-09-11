@@ -160,7 +160,7 @@ Recall (from the screenshots) that the game contains a scoreboard that maintains
 Hint: Can you use *property observers* to make your code more elegant?
 
 ## Submission
-Zip your entire project folder. Name the zipped file app1A_Lastname_Firstname and submit it on canvas.
+Zip your entire project folder. Name the zipped file app1B_Lastname_Firstname and submit it on canvas.
 
 Late submissions will be graded according to the policy described in Recitation 0. Please submit by the deadline!
 
