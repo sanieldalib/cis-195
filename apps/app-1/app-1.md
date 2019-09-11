@@ -94,6 +94,11 @@ At this point your app should be crash free and support the following:
 * The buttons and labels should look roughly like they do in the screenshot.
 * The app should compile and run in the simulator. It should not crash when any buttons are tapped.
 
+## Submission
+Zip your entire project folder. Name the zipped file app1A_Lastname_Firstname and submit it on canvas.
+
+Late submissions will be graded according to the policy described in Recitation 0. Please submit by the deadline!
+
 ---
 # End of Part A
 SUBMIT YOUR WORK TO THIS POINT on Canvas by Wednesday, September 11th at **11:59pm**. Warning: missing this deadline will result in a late grade.
@@ -154,4 +159,12 @@ Recall (from the screenshots) that the game contains a scoreboard that maintains
 
 Hint: Can you use *property observers* to make your code more elegant?
 
+## Submission
+Zip your entire project folder. Name the zipped file app1A_Lastname_Firstname and submit it on canvas.
 
+Late submissions will be graded according to the policy described in Recitation 0. Please submit by the deadline!
+
+---
+# End of Part B
+SUBMIT YOUR WORK TO THIS POINT on Canvas by Wednesday, September 18th at **11:59pm**. Warning: missing this deadline will result in a late grade.
+---
